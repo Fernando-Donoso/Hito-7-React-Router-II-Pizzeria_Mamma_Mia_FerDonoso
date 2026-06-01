@@ -1,17 +1,19 @@
 <<<<<<< HEAD
-# Hito6-Context-Pizzeria_Mamma_Mia_FerDonoso
-# React Context
+# Hito-7-React-Router-II-Pizzeria_Mamma_Mia_FerDonoso
+# React II
 
 
 =======
 
+
 # Repository Github
-https://github.com/Fernando-Donoso/Hito6-Context-Pizzeria_Mamma_Mia_FerDonoso
+https://github.com/Fernando-Donoso/Hito-7-React-Router-II-Pizzeria_Mamma_Mia_FerDonoso
 
 
 
-# Los Cambios del hito6 context estan al  carpeta FRONTEND
-# rama Renderizacion_dinamica_componentes_fdonoso
+
+
+# Los Cambios del hito7 React II estan al  carpeta FRONTEND
 
 
 
